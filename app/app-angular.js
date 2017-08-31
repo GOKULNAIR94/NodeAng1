@@ -1,4 +1,4 @@
-var app = angular.module('MyApp',["ngRoute",'ngMaterial']);
+var app = angular.module('MyApp',[]);
 app.run(function(){
     console.log("My App is Running!");
 });
